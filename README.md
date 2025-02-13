@@ -1,5 +1,5 @@
 # Custom-Unity-Lighting-Shader
-This is my custom unity standard lighting shader project. From start to finish I create the unity standard lighting shaders from scratch. There are a total of 10 scenes, each of which showcases a different feature implementation which I will briefly describe. 
+This is my custom unity standard lighting shader project. From start to finish I create the unity standard lighting shaders from scratch following catlikecoding's tutorials. There are a total of 10 scenes, each of which showcases a different feature implementation which I will briefly describe. 
 
 ## Scenes and Features
 ### Part 1 Scene
